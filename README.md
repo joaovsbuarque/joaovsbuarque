@@ -27,5 +27,3 @@
   <img align="center" alt="Js" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div> 
 
-      
-[snake.animation](https://github.com/joaovsbuarque/joaovsbuarque/blob/output/github-contribution-grid-snake.svg)
