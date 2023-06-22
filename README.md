@@ -1,6 +1,5 @@
 ### Olá Eu sou João Vitor Buarque 👋
 
-- 🔭 Atualmente estou trabalhando na Klever
 - 🌱 Estudando Typescript/React
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovsbuarque&show_icons=true&theme=midnight-purple&count_private=true)
